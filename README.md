@@ -1,5 +1,6 @@
 # Olá, eu sou Werik Pires
 
+
 Sou estudante de Engenharia de Software e estou construindo minha base em desenvolvimento de software, programação, banco de dados e tecnologia.
 
 ## Sobre mim
@@ -19,14 +20,12 @@ Sou estudante de Engenharia de Software e estou construindo minha base em desenv
 - Banco de Dados
 - Fundamentos de Inteligência Artificial
 
-## Projetos em desenvolvimento
+## Projetos em destaque
 
-- Portfólio pessoal
-- Lista de tarefas
-- Quiz educativo
-- Sistema de cadastro simples
-- Projeto simples com IA
+- [Portfólio Pessoal](https://WerikPires.github.io/portfolio-pessoal/)
+- [Meu Primeiro Projeto](https://github.com/WerikPires/meu-primeiro-projeto)
 
+- 
 ## Objetivo profissional
 
 Busco uma oportunidade de estágio em tecnologia para aprender com profissionais experientes, aplicar meus conhecimentos acadêmicos e crescer como desenvolvedor.
